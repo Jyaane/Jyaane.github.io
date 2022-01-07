@@ -104,4 +104,4 @@ theme: even
 deploy:
   type: git
   branch: master
-  repo: https://github.com/Jyaane/Jyaane.github.io
+  repo: git@github.com:Jyaane/Jyaane.github.io.git
